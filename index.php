@@ -40,8 +40,8 @@
 		<div class="navbar-collapse collapse">
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="#home">HOME</a></li>
-				 <li><a href="#about">ABOUT</a></li>
-				<li><a href="#services">SERVICES</a></li>
+				 <li><a href="#about">XELLOSS.PLUGIN</a></li>
+				<li><a href="#services">GAME.ENGINE</a></li>
 				<li><a href="#contact">CONTACT</a></li>
 			</ul>
 		</div>
@@ -58,13 +58,13 @@
 					<div class="carousel-inner">
 						<div class="item active">
 
-							<h1 >  Explore This Template Design  </h1>
+							<h1>Xelloss Anit-Cheat Debug Bypass Plugin</h1>
 						</div>
 						<div class="item">
-						 <h1 > THIS TEMPLATE IS HANDMADE</h1>
+						 <h1 >tyo Engine [Unity3D]</h1>
 						</div>
 						<div class="item">
-						  <h1>  AWESOMENESS  JUST FOR YOU</h1>
+						  <h1>tyo House Social Database and MD5 Database </h1>
 						</div>
 					</div>
 					<!--INDICATORS-->
@@ -162,7 +162,7 @@
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="row ">
 			<div class="col-lg-4 col-md-4 col-sm-4">
 				<div class="media">
@@ -344,7 +344,7 @@
 	</div>
 </section>
 <!--CONTACT SECTION END-->
-<div class="footer">Copyright &copy; 2017 - 2021. tyoHouse.com All rights reserved .Making By Garfield Chen</div>
+<div class="footer" align="center">Copyright &copy; 2017 - 2021. tyoHouse.com All rights reserved .Making By Garfield Chen</div>
 			
 <!-- CORE JQUERY  -->
 <script src="assets/plugins/jquery-1.10.2.js"></script>
