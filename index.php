@@ -18,7 +18,7 @@
 <!-- CUSTOM STYLE CSS -->
 <link href="assets/css/style.css" rel="stylesheet" />    
 <!-- GOOGLE FONT -->
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+<link href='assets/fonts/font.css' rel='stylesheet' type='text/css' />
  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
   <script src="assets/js/html5shiv.js"></script>
@@ -162,7 +162,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="copyrights">Collect from <a href="http://www.cssmoban.com/"  title="网站模板">网站模板</a></div>
+		
 		<div class="row ">
 			<div class="col-lg-4 col-md-4 col-sm-4">
 				<div class="media">
@@ -344,7 +344,7 @@
 	</div>
 </section>
 <!--CONTACT SECTION END-->
-<div class="footer">Copyright &copy; 2017.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a></div>
+<div class="footer">Copyright &copy; 2017 - 2021. tyoHouse.com All rights reserved .Making By Garfield Chen</div>
 			
 <!-- CORE JQUERY  -->
 <script src="assets/plugins/jquery-1.10.2.js"></script>
